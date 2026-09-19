@@ -220,25 +220,29 @@ fetch(`chapters/${file}.md`)
 });
 
 
-const match = file.match(/chapter(\d+)/);
+const chapterOrder = [
+"chapter1",
+"chapter2",
+"chapter3",
+"chapter4",
+"chapter5",
+"chapter6"
+];
 
-if(match){
+const currentIndex = chapterOrder.indexOf(file);
 
-    const current = parseInt(match[1]);
+if(currentIndex > 0){
+    document.getElementById("prevBtn").href =
+    `chapter.html?file=${chapterOrder[currentIndex-1]}`;
+}else{
+    document.getElementById("prevBtn").style.visibility = "hidden";
+}
 
-    document.getElementById("prevBtn")
-        .href = `chapter.html?file=chapter${current - 1}`;
-
-    document.getElementById("nextBtn")
-        .href = `chapter.html?file=chapter${current + 1}`;
-
-    if(current === 1){
-
-        document.getElementById("prevBtn")
-            .style.visibility = "hidden";
-
-    }
-
+if(currentIndex > -1 && currentIndex < chapterOrder.length-1){
+    document.getElementById("nextBtn").href =
+    `chapter.html?file=${chapterOrder[currentIndex+1]}`;
+}else{
+    document.getElementById("nextBtn").style.visibility = "hidden";
 }
 
 
@@ -260,6 +264,8 @@ window.addEventListener("scroll", () => {
 });
 
 </script>
+
+<script src="feedback.js" data-story="The Cunning Psychic"></script>
 
 </body>
 </html>
