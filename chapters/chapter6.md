@@ -155,7 +155,7 @@ He spoke with absolute, gentle clarity: \"Do you still like me?\"
 
 The sheer directness of the question completely shocked her, leaving
 absolutely no avenue for escape, no room for ambiguity, and no place
-left to hide---only the raw truth remained. Prajwala felt her face grow
+left to hide - only the raw truth remained. Prajwala felt her face grow
 incredibly warm. For a fleeting second, she seriously considered denying
 it, but then she remembered exactly who she was talking to, realizing
 that lying to him would be entirely pointless. Slowly, and with quiet
@@ -203,7 +203,7 @@ Aparajita called over her shoulder.
 
 The two of them quickly disappeared toward the mall\'s main exit. Left
 entirely alone in their own private bubble, Prajwala finally let out a
-laugh---a small, completely relaxed laugh, her very first one since she
+laugh - a small, completely relaxed laugh, her very first one since she
 had initially spotted him. Kusha looked deeply at her, and she looked
 right back. There was absolutely no more fear, no more running away, and
 no more unanswered questions demanding immediate, logical explanations;

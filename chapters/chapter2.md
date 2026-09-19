@@ -1,4 +1,4 @@
-**Chapter 2: The Past -- Part 1**
+**Chapter 2: The Past – Part 1**
 
 The very first time Prajwala noticed Kusha, he wasn\'t doing anything
 remotely remarkable. He was simply sitting in the cool shade beneath a
@@ -39,7 +39,7 @@ lectures, occasionally exchanging notes or sitting near one another
 during practicals. Every interaction, however, left Prajwala with the
 exact same impression: Kusha listened far more than he ever spoke.
 
-The atmosphere between them---and around him---shifted drastically one
+The atmosphere between them - and around him - shifted drastically one
 tense afternoon after a particularly grueling mechanics lecture.
 Prajwala was lingering in the corridor, listening as a group of students
 anxiously discussed the impending semester results. Everyone was trying

@@ -139,7 +139,7 @@ from their seats amidst shattering glass and twisted iron tracks. The
 overwhelming panic had eventually faded into a deafening silence. He had
 awakened well before dawn, his heart racing against his ribs. More
 importantly, the specific number of the train had burned itself into his
-memory---it was the exact same train Aparajita was scheduled to board.
+memory - it was the exact same train Aparajita was scheduled to board.
 
 For Kusha, this was not a mere possibility or an anxious guess; it was
 an absolute certainty. Over the years, his exceptional patience and

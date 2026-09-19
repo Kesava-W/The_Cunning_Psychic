@@ -275,7 +275,7 @@ nothing to stop them from talking endlessly. Standing near the edge of
 the chaos, Kusha quietly sipped a steaming cup of tea. He listened to
 the wild theories, occasionally offering a polite nod of agreement,
 occasionally allowing a faint, mysterious smile to grace his lips, but
-mostly, he remained entirely, comfortably silent---exactly the way he
+mostly, he remained entirely, comfortably silent - exactly the way he
 always did.
 
 However, the true roots of the morning\'s spectacular chaos had actually
@@ -629,7 +629,7 @@ before his heavy body even forcefully hit the concrete floor.
 Profound silence instantly returned to the massive room. For several,
 incredibly tense seconds, absolutely nobody moved. Then, completely
 overwhelmed, Karan started crying openly. It was not a loud, piercing
-scream, but rather a soft, broken weeping---the specific, devastating
+scream, but rather a soft, broken weeping - the specific, devastating
 kind of crying that only arrives after a victim realizes that hope has
 miraculously returned.
 

@@ -1,4 +1,4 @@
-**Chapter 4: The Past -- Part 2**
+**Chapter 4: The Past – Part 2**
 
 The golden summer sun hung low over the sprawling fields, casting long,
 dramatic shadows across the vibrant landscape. Prajwala strolled
@@ -241,7 +241,7 @@ looking directly at her, she quickly reached up and wiped the rogue
 tears from her eyes. Kusha, however, slowly turned his heavy head and
 looked straight at her. His gaze held absolutely no surprise or
 confusion regarding her sudden tears. Instead, his dark eyes held only
-profound, bottomless understanding---the exact same, unnerving level of
+profound, bottomless understanding - the exact same, unnerving level of
 understanding that had always managed to simultaneously comfort and
 deeply unsettle her. It was the same inexplicable understanding that
 often felt entirely impossible for a normal human being to possess.
@@ -294,7 +294,7 @@ confusion, strange relief, overwhelming love, and profound shock
 collided violently within her mind. She stood up so abruptly that her
 wooden chair loudly scraped against the floor.
 
-\"Kusha---\" she began, but her voice choked. Absolutely no coherent
+\"Kusha-\" she began, but her voice choked. Absolutely no coherent
 words could follow.
 
 Fresh, uncontrollable tears fully escaped her eyes before she could even
@@ -302,7 +302,7 @@ attempt to stop them. Completely overwhelmed by the magnitude of her
 discovery, she sharply turned on her heel and rushed desperately toward
 the bedroom door.
 
-\"Prajwala---\" Kusha called out softly, a rare hint of regret lacing
+\"Prajwala-\" Kusha called out softly, a rare hint of regret lacing
 his tired voice.
 
 She didn\'t stop. Seconds later, she was entirely gone, leaving behind a
@@ -355,5 +355,5 @@ profound realization had truly frightened her.
 
 Kusha closed his eyes tightly. It was not because the intense fever was
 returning, but because he intimately understood the tragic burden of his
-gifts---he knew that some profound truths inevitably arrived long before
+gifts - he knew that some profound truths inevitably arrived long before
 people were emotionally ready to handle them.
