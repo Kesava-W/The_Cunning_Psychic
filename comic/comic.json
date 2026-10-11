@@ -1,0 +1,135 @@
+{
+ "pageSize": [
+  1024,
+  1024
+ ],
+ "chapters": [
+  {
+   "id": "c01",
+   "chapter": "1",
+   "file": "chapter1",
+   "title": "Chapter 1 – The Ticket",
+   "pages": [
+    "c01/01.webp",
+    "c01/02.webp",
+    "c01/03.webp",
+    "c01/04.webp",
+    "c01/05.webp",
+    "c01/06.webp",
+    "c01/07.webp",
+    "c01/08.webp",
+    "c01/09.webp",
+    "c01/10.webp",
+    "c01/11.webp",
+    "c01/12.webp",
+    "c01/13.webp"
+   ]
+  },
+  {
+   "id": "c02",
+   "chapter": "2",
+   "file": "chapter2",
+   "title": "Chapter 2 – The Past – Part 1",
+   "pages": [
+    "c02/01.webp",
+    "c02/02.webp",
+    "c02/03.webp",
+    "c02/04.webp",
+    "c02/05.webp",
+    "c02/06.webp",
+    "c02/07.webp",
+    "c02/08.webp",
+    "c02/09.webp",
+    "c02/10.webp",
+    "c02/11.webp",
+    "c02/12.webp",
+    "c02/13.webp",
+    "c02/14.webp"
+   ]
+  },
+  {
+   "id": "c03",
+   "chapter": "3",
+   "file": "chapter3",
+   "title": "Chapter 3 – The Fire That Never Happened",
+   "pages": [
+    "c03/01.webp",
+    "c03/02.webp",
+    "c03/03.webp",
+    "c03/04.webp",
+    "c03/05.webp",
+    "c03/06.webp",
+    "c03/07.webp",
+    "c03/08.webp",
+    "c03/09.webp",
+    "c03/10.webp",
+    "c03/11.webp",
+    "c03/12.webp"
+   ]
+  },
+  {
+   "id": "c04",
+   "chapter": "4",
+   "file": "chapter4",
+   "title": "Chapter 4 – The Past – Part 2",
+   "pages": [
+    "c04/01.webp",
+    "c04/02.webp",
+    "c04/03.webp",
+    "c04/04.webp",
+    "c04/05.webp",
+    "c04/06.webp",
+    "c04/07.webp",
+    "c04/08.webp",
+    "c04/09.webp",
+    "c04/10.webp",
+    "c04/11.webp",
+    "c04/12.webp",
+    "c04/13.webp",
+    "c04/14.webp"
+   ]
+  },
+  {
+   "id": "c05",
+   "chapter": "5",
+   "file": "chapter5",
+   "title": "Chapter 5 – The Midnight Parcel",
+   "pages": [
+    "c05/01.webp",
+    "c05/02.webp",
+    "c05/03.webp",
+    "c05/04.webp",
+    "c05/05.webp",
+    "c05/06.webp",
+    "c05/07.webp",
+    "c05/08.webp",
+    "c05/09.webp",
+    "c05/10.webp",
+    "c05/11.webp",
+    "c05/12.webp",
+    "c05/13.webp",
+    "c05/14.webp"
+   ]
+  },
+  {
+   "id": "c06",
+   "chapter": "6",
+   "file": "chapter6",
+   "title": "Chapter 6 – The Answer",
+   "pages": [
+    "c06/01.webp",
+    "c06/02.webp",
+    "c06/03.webp",
+    "c06/04.webp",
+    "c06/05.webp",
+    "c06/06.webp",
+    "c06/07.webp",
+    "c06/08.webp",
+    "c06/09.webp",
+    "c06/10.webp",
+    "c06/11.webp",
+    "c06/12.webp"
+   ]
+  }
+ ]
+}
